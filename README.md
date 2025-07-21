@@ -27,3 +27,12 @@
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=sulton1303&show_icons=true&locale=en&layout=compact" alt="sulton1303" /></p>
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=sulton1303&show_icons=true&locale=en" alt="sulton1303" /></p>
+
+<h3 align="left">Let's play with me:</h3>
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Sulton1303/Sulton1303/output/pacman-contribution-graph-dark.svg">
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/Sulton1303/Sulton1303/output/pacman-contribution-graph.svg">
+  <img alt="pacman contribution graph" src="https://raw.githubusercontent.com/Sulton1303/Sulton1303/output/pacman-contribution-graph.svg">
+</picture>
+
+###
