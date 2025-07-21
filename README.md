@@ -1,5 +1,7 @@
 ## Hello Gizz! I'm Muhammad Sulton 👋
 
+![Muhammad Sulton](img/Black%20and%20White%20Simple%20Art%20Director%20LinkedIn%20Banner.png)
+
 <!--
 **Sulton1303/Sulton1303** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
@@ -14,3 +16,7 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+
+- 🔭 I’m currently working on **DigiBuddy.id**
+- 📖 I’m currently learning **React** and **Laravel**
+- 📫 How to reach me: **mhammadslton46@gmail.com**
