@@ -14,8 +14,6 @@
   </a> 
 </p>
 
----
-
 ## **🚀 About Me**
 
 - 🔭 I'm currently working on **DigiBuddy.id**
