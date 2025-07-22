@@ -14,13 +14,15 @@
   </a> 
 </p>
 
+---
+
 ## **🚀 About Me**
 
 - 🔭 I'm currently working on **DigiBuddy.id**
 - 📖 I'm currently learning **React and Laravel**
 - 📫 How to reach me: **mhammadslton46@gmail.com**
 
-<hr style="border: 3px solid #333; border-radius: 5px;">
+---
 
 ## **🌐 Connect with Me**
 
@@ -36,7 +38,7 @@
   </a>
 </p>
 
-<hr style="border: 3px solid #333; border-radius: 5px;">
+---
 
 ## **🛠️ Languages and Tools**
 
@@ -102,7 +104,7 @@
   </a>
 </p>
 
-<hr style="border: 3px solid #333; border-radius: 5px;">
+---
 
 ## **📊 GitHub Statistics**
 
@@ -114,7 +116,7 @@
   <img src="https://github-readme-stats.vercel.app/api?username=sulton1303&show_icons=true&locale=en" alt="sulton1303" />
 </div>
 
-<hr style="border: 3px solid #333; border-radius: 5px;">
+---
 
 ## **🎮 Let's Play with Me**
 
@@ -124,7 +126,7 @@
   <img alt="pacman contribution graph" src="https://raw.githubusercontent.com/Sulton1303/Sulton1303/output/pacman-contribution-graph.svg">
 </picture>
 
-<hr style="border: 3px solid #333; border-radius: 5px;">
+---
 
 <div align="center">
   <i>✨ Thanks for visiting my profile! Let's connect and build something amazing together! ✨</i>
