@@ -17,7 +17,7 @@
 ## **🚀 About Me**
 
 - 🔭 I'm currently working on **DigiBuddy.id**
-- 📖 I'm currently learning **React and Laravel**
+- 📖 I'm currently learning **Next.js**
 - 📫 How to reach me: **mhammadslton46@gmail.com**
 
 ## **🌐 Connect with Me**
